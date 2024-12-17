@@ -22,11 +22,14 @@ To get started with these notebooks:
 
 Clone this repository:
 git clone https://github.com/christylaminated/ml-notebooks.git
+
 Install the required packages:
 pip install -r requirements.txt  # Ensure you create and include this file if needed
+
 Navigate to the repository directory and start Jupyter Notebook:
 jupyter notebook
-Prerequisites
+
+Prerequisites:
 
 Python 3.8 or higher
 Jupyter Notebook
